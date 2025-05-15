@@ -1,0 +1,37 @@
+[
+  {
+    "asin": "1234567890",
+    "title": "The Haunting of Hill House",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg",
+    "price": 10.99,
+    "category": "horror"
+  },
+  {
+    "asin": "0987654321",
+    "title": "It",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81dZ1g8gZML.jpg",
+    "price": 15.99,
+    "category": "horror"
+  },
+  {
+    "asin": "1122334455",
+    "title": "The Shining",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91W4g5g1gPL.jpg",
+    "price": 12.99,
+    "category": "horror"
+  },
+  {
+    "asin": "2233445566",
+    "title": "Bird Box",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81gYg5g1gPL.jpg",
+    "price": 9.99,
+    "category": "horror"
+  },
+  {
+    "asin": "3344556677",
+    "title": "The Silence of the Lambs",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81gYg5g1gPL.jpg",
+    "price": 14.99,
+    "category": "horror"
+  }
+]

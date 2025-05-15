@@ -1,0 +1,37 @@
+[
+  {
+    "asin": "1234567890",
+    "title": "The Love Hypothesis",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81cZ1c1F1FL.jpg",
+    "price": 14.99,
+    "category": "romance"
+  },
+  {
+    "asin": "0987654321",
+    "title": "Beach Read",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81gZ1c1F1FL.jpg",
+    "price": 12.99,
+    "category": "romance"
+  },
+  {
+    "asin": "1122334455",
+    "title": "Red, White & Royal Blue",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81gZ1c1F1FL.jpg",
+    "price": 16.99,
+    "category": "romance"
+  },
+  {
+    "asin": "2233445566",
+    "title": "It Ends with Us",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81gZ1c1F1FL.jpg",
+    "price": 15.99,
+    "category": "romance"
+  },
+  {
+    "asin": "3344556677",
+    "title": "People We Meet on Vacation",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81gZ1c1F1FL.jpg",
+    "price": 13.99,
+    "category": "romance"
+  }
+]

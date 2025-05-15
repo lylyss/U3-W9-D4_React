@@ -1,0 +1,37 @@
+[
+  {
+    "asin": "1234567890",
+    "title": "The History of Time",
+    "img": "https://example.com/images/history1.jpg",
+    "price": 15.99,
+    "category": "history"
+  },
+  {
+    "asin": "0987654321",
+    "title": "Ancient Civilizations",
+    "img": "https://example.com/images/history2.jpg",
+    "price": 12.49,
+    "category": "history"
+  },
+  {
+    "asin": "1122334455",
+    "title": "World War II: A Comprehensive Guide",
+    "img": "https://example.com/images/history3.jpg",
+    "price": 20.0,
+    "category": "history"
+  },
+  {
+    "asin": "2233445566",
+    "title": "The Rise and Fall of Empires",
+    "img": "https://example.com/images/history4.jpg",
+    "price": 18.75,
+    "category": "history"
+  },
+  {
+    "asin": "3344556677",
+    "title": "The History of the World",
+    "img": "https://example.com/images/history5.jpg",
+    "price": 22.99,
+    "category": "history"
+  }
+]
