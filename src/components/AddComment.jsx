@@ -18,7 +18,7 @@ const AddComment = ({ bookId, onCommentAdded }) => {
         headers: {
           "Content-Type": "application/json",
           Authorization:
-            "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2ODI1ZjMFlYmU4MjAwMTUwOWYzMjQiLCJpYXQiOjE3NDczMTc0OTEsImV4cCI6MTc0ODUyNzA5MX0.RvlheLp-mP_qB4t8n1Z_V613km7395Hs3aXIdSMAVMI",
+            "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2ODI1ZjJmMzFlYmU4MjAwMTUwOWYzMjQiLCJpYXQiOjE3NDczMTc0OTEsImV4cCI6MTc0ODUyNzA5MX0.RvlheLp-mP_qB4t8n1Z_V613km7395Hs3aXIdSMAVMI",
         },
         body: JSON.stringify(newComment),
       });
