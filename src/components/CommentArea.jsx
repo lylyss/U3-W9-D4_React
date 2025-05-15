@@ -11,17 +11,17 @@ const CommentArea = ({ bookId }) => {
         const response = await fetch(`https://striveschool-api.herokuapp.com/api/comments/${bookId}`, {
           headers: {
             Authorization:
-              "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2ODI1ZjMFlYmU4MjAwMTUwOWYzMjQiLCJpYXQiOjE3NDczMTc0OTEsImV4cCI6MTc0ODUyNzA5MX0.RvlheLp-mP_qB4t8n1Z_V613km7395Hs3aXIdSMAVMI",
+              "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2ODI1ZjJmMzFlYmU4MjAwMTUwOWYzMjQiLCJpYXQiOjE3NDczMTc0OTEsImV4cCI6MTc0ODUyNzA5MX0.RvlheLp-mP_qB4t8n1Z_V613km7395Hs3aXIdSMAVMI",
           },
         });
         if (response.ok) {
           const data = await response.json();
           setComments(data);
         } else {
-          console.error("Error fetching comments");
+          console.error("Errore nel recupero dei commenti");
         }
       } catch (error) {
-        console.error("Error:", error);
+        console.error("Errore:", error);
       }
     };
 

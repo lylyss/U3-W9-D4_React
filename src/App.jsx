@@ -13,6 +13,7 @@ const App = () => {
   const [selectedBook, setSelectedBook] = useState(null);
 
   console.log("Selected Book:", selectedBook);
+
   return (
     <>
       <MyNav />
